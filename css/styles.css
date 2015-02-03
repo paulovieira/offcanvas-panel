@@ -1,0 +1,20 @@
+.debug {
+	border: solid;
+	border-width: 1px;
+}
+
+.debug-blue {
+	border-color: blue;
+}
+
+.debug-red {
+	border-color: red;
+}
+
+#menu {
+	min-height: 100px;
+}
+
+#map {
+	height: 600px; 
+}
